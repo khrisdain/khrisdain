@@ -1,4 +1,4 @@
-[![MasterHead](https://bestanimations.com/Animals/Insects/Spiders/spiderweb-animated-gif-7.gif)]
+
 <h1 align="center">Hi 👋, I'm Olamide Ilesanmi</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
 <img align="right alt="coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
