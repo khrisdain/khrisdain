@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khrisdain&label=Profile%20views&color=0e75b6&style=flat" alt="khrisdain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mideilesanmi" target="blank"><img src="https://www.vectorstock.com/royalty-free-vector/young-male-programmer-geek-character-develop-vector-44636070" alt="mideilesanmi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mideilesanmi" target="blank"><img src="https://www.rawpixel.com/image/917644/free-image-rawpixelcom" alt="mideilesanmi" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
