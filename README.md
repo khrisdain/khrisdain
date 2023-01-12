@@ -7,15 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mideilesanmi" target="blank"><img src="https://www.vectorstock.com/royalty-free-vector/young-male-programmer-geek-character-develop-vector-44636070" alt="mideilesanmi" /></a> </p>
 
-- 🔭 I’m currently working on [social media app](https://github.com/khrisdain/Omega)
-
-- 🌱 I’m currently learning **solidity for smart contracts**
-
-- 👯 I’m looking to collaborate on **solidity and full-stack projects**
-
-- 💬 Ask me about **nodejs express and react**
-
-- 📫 How to reach me **samuelilesanmi15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
