@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khrisdain&label=Profile%20views&color=0e75b6&style=flat" alt="khrisdain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mideilesanmi" target="blank"><img src="https://www.rawpixel.com/image/917644/free-image-rawpixelcom" alt="mideilesanmi" /></a> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/olamide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="olamide" height="30" width="40" /></a>
