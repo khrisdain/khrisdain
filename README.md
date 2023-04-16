@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Olamide Ilesanmi</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
-<img align="right alt="coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khrisdain&label=Profile%20views&color=0e75b6&style=flat" alt="khrisdain" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/olamide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="olamide" height="30" width="40" /></a>
