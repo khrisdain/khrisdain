@@ -4,7 +4,7 @@
 
 **Software Engineer · AI Annotator · Full-Stack Developer**
 
-Toronto, Canada &nbsp;·&nbsp; Humber College
+Toronto, Canada &nbsp;·&nbsp; 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-weld-ten-40.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mideilesanmi)
