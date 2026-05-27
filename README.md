@@ -19,7 +19,7 @@ Toronto, Canada &nbsp;·&nbsp;
 
 ## About Me
 
-I'm a full-stack software engineer and student at Humber College, building at the intersection of web development, mobile apps, and AI. I work on production systems using Node.js, React, and Python, and I do professional AI model evaluation — scoring and comparing LLM outputs across coding, reasoning, and speech tasks.
+I'm a full-stack software engineer building at the intersection of web development, mobile apps, and AI. I work on production systems using Node.js, React, and Python, and I do professional AI model evaluation — scoring and comparing LLM outputs across coding, reasoning, and speech tasks.
 
 When I'm not coding, I'm shooting photos or catching live music around Toronto.
 
