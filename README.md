@@ -25,8 +25,7 @@ When I'm not coding, I'm shooting photos or catching live music around Toronto.
 
 - Currently building an **AI system-architect: flowmind** with Next.js 15, prisma, google-gemini, trigger and liveblock.
 - Studying **RAG Systems and Computer Vision**
-- Working as an **AI data annotator** on Mercor and Outlier: rubric-based model evaluation & SxS comparisons
-- Actively grinding **LeetCode** (dynamic programming, trees, binary search)
+- Working as an **AI data annotator** on Mercor and Aligneer: rubric-based model evaluation & SxS comparisons
 
 ---
 
