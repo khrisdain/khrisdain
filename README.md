@@ -2,7 +2,7 @@
 
 # Olamide Ilesanmi
 
-**Software Engineer · AI Annotator · Full-Stack Developer**
+**Software Engineer · AI Engineer · Full-Stack Developer**
 
 Toronto, Canada &nbsp;·&nbsp; 
 
